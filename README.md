@@ -1,6 +1,6 @@
 # chatbot_project
 
-#KHÔNG SHARE RA NGOÀI,KỂ CẢ CHỤP LẠI
+# KHÔNG SHARE RA NGOÀI,KỂ CẢ CHỤP LẠI
 
 Tải cả folder logistic_chatbot về hoặc vào ổ D tạo một folder mới tên logistic_chatbot rồi ném hết file đã tải vào trong folder í.
 Mở cả folder lên bằng visual studio code.
