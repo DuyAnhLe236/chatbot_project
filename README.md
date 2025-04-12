@@ -1,6 +1,6 @@
 # chatbot_project
 
-Mày tải cả folder logistic_chatbot về hoặc vào ổ D tạo một folder mới tên logistic_chatbot rồi ném hết file đã tải vào trong folder í.
+Tải cả folder logistic_chatbot về hoặc vào ổ D tạo một folder mới tên logistic_chatbot rồi ném hết file đã tải vào trong folder í.
 Mở cả folder lên bằng visual studio code.
 
 Buowcs1:mở terminal trong visual studio code lên,gõ
